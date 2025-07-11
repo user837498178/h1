@@ -26,7 +26,7 @@ A CUDA build of PyTorch will be used automatically if available.
 ---
 
 ## 2. Data
-Download: https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households/
+Download: [https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households/](https://data.london.gov.uk/download/00326043-62b6-47a8-9a49-1aa226b7e2c4/3527bf39-d93e-4071-8451-df2ade1ea4f2/LCL-FullData.zip)
 
 1. Place **CC_LCL-FullData.csv** under `electricity_forecasting/` (or supply an explicit path through `file_path`).  
 2. Example format:
